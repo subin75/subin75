@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4c81d6&height=180&text=Subin%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 방문을 환영합니다 😊 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 환영합니다 😊 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꾸준히 성장하기 위해 노력하는 프론트앤드 개발자 입니다! </div> 
     </div>
     <div style="text-align: left;">
