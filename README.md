@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=87CEFA&height=180&text=Subin's%20GitHub&animation=fadeIn&fontColor=FFB6C1&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&text=Subin's%20GitHub&animation=fadeIn&fontColor=FFB6C1&fontSize=60" />
 </div>
 
 <div style="text-align: left;"> 
@@ -28,8 +28,8 @@
   <!-- 데이터베이스 -->
   <div style="font-weight: bold; margin-bottom: 5px;">🗄️ Database</div> <br>
   <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="margin-right: 5px;">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   </div>
   <br>
