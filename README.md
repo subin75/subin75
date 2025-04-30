@@ -13,7 +13,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
 
   <!-- 언어 -->
-  <div style="font-weight: bold; margin-bottom: 5px;">🧾 Language</div>
+  <div style="font-weight: bold; margin-bottom: 5px;">🧾 Language</div> <br>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -26,7 +26,7 @@
   <br>
 
   <!-- 데이터베이스 -->
-  <div style="font-weight: bold; margin-bottom: 5px;">🗄️ Database</div>
+  <div style="font-weight: bold; margin-bottom: 5px;">🗄️ Database</div> <br>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
@@ -35,7 +35,7 @@
   <br>
 
   <!-- 기타 툴 -->
-  <div style="font-weight: bold; margin-bottom: 5px;">🧰 Tools & Platforms</div>
+  <div style="font-weight: bold; margin-bottom: 5px;">🧰 Tools & Platforms</div> <br>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
