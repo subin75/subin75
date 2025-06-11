@@ -5,7 +5,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 환영합니다 😊 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    성장하기 위해 꾸준히 노력하는 프론트엔드 개발자 입니다!
+    기획부터 구현까지, 사용자와 소통하는 인터페이스를 만드는 개발자입니다!
   </div> 
 </div>
 
