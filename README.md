@@ -39,9 +39,9 @@
   <!-- 기타 툴 -->
   <div style="font-weight: bold; margin-bottom: 5px;">🧰 Tools & Platforms</div> <br>
   <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
 </div>
 
