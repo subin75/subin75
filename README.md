@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   </div>
   <br>
 
